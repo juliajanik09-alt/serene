@@ -6,7 +6,7 @@ export default function App() {
   const [password, setPassword] = useState('')
 
   const login = async () => {
-    alert('Tu podepniesz backend URL')
+    alert('serene-production-443b.up.railway.app')
   }
 
   return (
